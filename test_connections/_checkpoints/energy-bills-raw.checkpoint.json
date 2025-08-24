@@ -1,0 +1,36 @@
+{
+  "processed": {
+    "April2024.pdf": {
+      "etag": "b84b5eb4948f442c0ad455041509946e",
+      "dest_key": "April2024.json"
+    },
+    "December2023.pdf": {
+      "etag": "c88be1b3ea330c7b619376b6ed69e96e",
+      "dest_key": "December2023.json"
+    },
+    "Feb2024.pdf": {
+      "etag": "c710b51fe86c1b3d4591be580108a369",
+      "dest_key": "Feb2024.json"
+    },
+    "Jan2024.pdf": {
+      "etag": "2b0753a753799559fb4fdadd8702ce59",
+      "dest_key": "Jan2024.json"
+    },
+    "March2024.pdf": {
+      "etag": "b52fdc30107cc39ef339c7b80782a4cc",
+      "dest_key": "March2024.json"
+    },
+    "Nov2023.pdf": {
+      "etag": "8ef5b4b8fe9dd0098932c6f7c4151163",
+      "dest_key": "Nov2023.json"
+    },
+    "October2023.pdf": {
+      "etag": "8cede8e9593081b7543c00344f897074",
+      "dest_key": "October2023.json"
+    },
+    "September2023.pdf": {
+      "etag": "953f7786a76663cfbe18c669408db85b",
+      "dest_key": "September2023.json"
+    }
+  }
+}
